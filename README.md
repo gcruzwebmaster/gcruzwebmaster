@@ -58,10 +58,10 @@ Currently serving as **Team Lead Developer & Webmaster at Rise25** (US-based, re
 
 | Repo | Description |
 |------|-------------|
-| [wordpress-performance-toolkit](https://github.com/gracecruz-dev/wordpress-performance-toolkit) | PHP snippets and configs for WordPress speed optimization |
-| [woocommerce-custom-snippets](https://github.com/gracecruz-dev/woocommerce-custom-snippets) | Useful WooCommerce customization code snippets |
-| [wordpress-maintenance-checklist](https://github.com/gracecruz-dev/wordpress-maintenance-checklist) | A comprehensive WordPress site maintenance workflow |
-| [php-mysql-optimization-notes](https://github.com/gracecruz-dev/php-mysql-optimization-notes) | MySQL query optimization patterns for WordPress |
+| [wordpress-performance-toolkit](https://github.com/gcruzwebmaster/wordpress-performance-toolkit) | PHP snippets and configs for WordPress speed optimization |
+| [woocommerce-custom-snippets](https://github.com/gcruzwebmaster/woocommerce-custom-snippets) | Useful WooCommerce customization code snippets |
+| [wordpress-maintenance-checklist](https://github.com/gcruzwebmaster/wordpress-maintenance-checklist) | A comprehensive WordPress site maintenance workflow |
+| [php-mysql-optimization-notes](https://github.com/gcruzwebmaster/php-mysql-optimization-notes) | MySQL query optimization patterns for WordPress |
 
 ---
 
