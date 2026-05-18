@@ -59,12 +59,16 @@ Currently serving as **Team Lead Developer & Webmaster at Rise25** (US-based, re
 | Repo | Description |
 |------|-------------|
 | [wordpress-performance-toolkit](https://github.com/gcruzwebmaster/wordpress-performance-toolkit) | PHP snippets and configs for WordPress speed optimization |
+| [core-web-vitals-audit-guide](https://github.com/gcruzwebmaster/core-web-vitals-audit-guide) | Step-by-step CWV audit and fix process — real results included |
+| [wordpress-qa-launch-checklist](https://github.com/gcruzwebmaster/wordpress-qa-launch-checklist) | Pre/post-launch QA checklist for WordPress sites |
+| [wordpress-security-hardening](https://github.com/gcruzwebmaster/wordpress-security-hardening) | Snippets and configs for locking down WordPress |
+| [cloudflare-wordpress-config](https://github.com/gcruzwebmaster/cloudflare-wordpress-config) | Cloudflare page rules, cache settings, and firewall configs for WP |
+| [ga4-gtm-wordpress-setup](https://github.com/gcruzwebmaster/ga4-gtm-wordpress-setup) | GA4 + GTM implementation guide and snippets for WordPress |
 | [woocommerce-custom-snippets](https://github.com/gcruzwebmaster/woocommerce-custom-snippets) | Useful WooCommerce customization code snippets |
 | [wordpress-maintenance-checklist](https://github.com/gcruzwebmaster/wordpress-maintenance-checklist) | A comprehensive WordPress site maintenance workflow |
 | [php-mysql-optimization-notes](https://github.com/gcruzwebmaster/php-mysql-optimization-notes) | MySQL query optimization patterns for WordPress |
 
 ---
-
 ## 📊 Experience Timeline
 
 ```
